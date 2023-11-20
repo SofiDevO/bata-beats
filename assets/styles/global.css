@@ -10,6 +10,7 @@
     --grey: #bababa;
     --off-white: #faf8f7;
     --just-white: #fff;
+    --linear-BG: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
 
 *{
